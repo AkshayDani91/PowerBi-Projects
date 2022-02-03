@@ -2,7 +2,7 @@
 This repository contains the list of all the completed PowerBi Projects. PowerBI is a powerful data intelligence tool that helps Data Analysts to create visuals and derive insights from the data.
 
 ## Sales Insights Project
-Atliq Hardware is a Indian Technology company which has observed drop in sales numbers. The Managing Director has asked for a detailed report. We perform data analysis in SQL first to understand the data points and relations. Then we import data into PowerBI to look for sales insights.
+Atliq Hardware is an Indian Technology company that has observed a drop in sales numbers. The Managing Director has asked for a detailed report. We created a detailed report consisting of revenue trend for last few years with highlighting top regions contributing to revenue and sales. Our report showcases top 5 customers in terms of revenue and sales. This report helps the stakeholders understand where we performing well and where we need to focus more.
 
 ## Customer Churn Prediction
 Customer Churn Project analyses the behaviour of people and predicts which customers are likely to churn. The data set includes information about:
