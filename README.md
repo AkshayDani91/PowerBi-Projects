@@ -2,7 +2,7 @@
 This repository contains the list of all the completed PowerBi Projects. PowerBI is a powerful data intelligence tool that helps Data Analysts to create visuals and derive insights from the data.
 
 ## Zomato Restaurant Dashboard
-Zomato is a popular food delivery brand growing in stature everyday. Zomato has listed restaurants that serve delicious cuisine to customers. We build a dahsbaord for restaurants listed on Zomato in multiple countries. Our report consists of details such as location of the restaurants, ratings, popularity, average cost for two and online delivery availability. The report follows the brand color code and keeps the visuals simple to gain maximum insights.  
+Zomato is a popular food delivery brand growing in stature every day. Zomato has listed restaurants that serve delicious cuisine to customers. We build a dahsbaord for restaurants listed on Zomato in multiple countries. Our report consists of details such as location of the restaurants, ratings, popularity, average cost for two and online delivery availability. The report follows the brand color code and keeps the visuals simple to gain maximum insights.  
 
 ## Sales Insights Project
 Atliq Hardware is an Indian Technology company that has observed a drop in sales numbers. The Managing Director has asked for a detailed report. We created a detailed report consisting of revenue trend for last few years with highlighting top regions contributing to revenue and sales. Our report showcases top 5 customers in terms of revenue and sales. This report helps the stakeholders understand well performing areas and segemnts that need more attention.
