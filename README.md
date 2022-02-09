@@ -1,6 +1,9 @@
 # PowerBI-Projects
 This repository contains the list of all the completed PowerBi Projects. PowerBI is a powerful data intelligence tool that helps Data Analysts to create visuals and derive insights from the data.
 
+## Super Bowl Commercial Analysis
+This is a Super Bowl Commercial Ads analysis for an upcoming US-based car manufacturer brand. The brand is looking to make an impact in the market by launching commercials. The report is created in Power BI Desktop to generate insights based on given Ads data from 2000 to 2021. Keeping in mind the creative direction requirement of the client, we try to understand the impact of Ad lengths on viewers. The report helps us find popular Ad elements like Fun content or product-related content. Here we focus on the data of other competitive automotive brands that have run ads in past on TV and YouTube.
+
 ## Zomato Restaurant Dashboard
 Zomato is a popular food delivery brand growing in stature every day. Zomato has listed restaurants that serve delicious cuisine to customers. We build a dahsbaord for restaurants listed on Zomato in multiple countries. Our report consists of details such as location of the restaurants, ratings, popularity, average cost for two and online delivery availability. The report follows the brand color code and keeps the visuals simple to gain maximum insights.  
 
